@@ -1,0 +1,27 @@
+[
+    {
+        "id":11,
+        "date":"17/04/2000",
+        "address":"adress11",
+        "phone":123456789,
+        "name": "fullname1",
+        "amount":3
+    },
+    {
+        "id":22,
+        "date":"17/04/2001",
+        "address":"adress12",
+        "phone":123456789,
+        "name": "fullname1",
+        "amount":6
+    },
+    {
+        "id":33,
+        "date":"17/04/1999",
+        "address":"adress13",
+        "phone":123456789,
+        "name": "fullname1",
+        "amount":4
+    }
+ 
+]
